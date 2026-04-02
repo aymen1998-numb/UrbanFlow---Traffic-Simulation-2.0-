@@ -1,0 +1,5 @@
+{
+  "name": "UrbanFlow - Traffic Simulation",
+  "description": "A lightweight, web-based urban traffic simulation and optimization platform.",
+  "requestFramePermissions": []
+}
